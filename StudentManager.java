@@ -132,3 +132,50 @@ package studentmanagement;
 	    }
 	
 }
+
+--- Student Management ---
+1. Add Student
+2. View Students
+3. Update Age
+4. Exit
+Enter choice: 1
+Enter ID: 23
+Enter Name: ANU
+Enter Age: 34
+All students saved successfully!
+
+--- Student Management ---
+1. Add Student
+2. View Students
+3. Update Age
+4. Exit
+Enter choice: 2
+
+--- All Students ---
+1 | Anu | 20
+1 | Anu | 20
+200 | anu | 32
+100 |  anu | 21
+101 |  Alice | 20
+200 | ANU | 21
+10 | ABC | 32
+2 | AC | 21
+23 | XYZ | 34
+23 | ANU | 34
+
+--- Student Management ---
+1. Add Student
+2. View Students
+3. Update Age
+4. Exit
+Enter choice: 3
+Enter ID to update age: 45
+Student not found!
+
+--- Student Management ---
+1. Add Student
+2. View Students
+3. Update Age
+4. Exit
+Enter choice: 4
+Exiting program.
